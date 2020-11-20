@@ -11,7 +11,7 @@ var config = {
     chapters: [
         {
             id: 'slug-style-id',
-            image: './vanilla-js/images/target.svg',
+            image: './images/target.svg',
             description: 'The Petitcodiac Watershed Alliance (PWA) focuses its efforts as an organization within the boundaries of the <b>Petitcodiac and Memramcook River Watersheds</b>.',
             location: {
                 center: [-64.88724, 45.96968],
